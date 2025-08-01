@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://ddduoef4kv6fq"]
+
+[ext_resource type="ArrayMesh" uid="uid://bp2dqsid7m41k" path="res://models/imagineThisIsAHamster.obj" id="1_3vyb7"]
+
+[node name="player" type="CharacterBody3D"]
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+mesh = ExtResource("1_3vyb7")

@@ -1,0 +1,25 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bp2dqsid7m41k"
+path="res://.godot/imported/imagineThisIsAHamster.obj-0865c629fdd260b49535e2c5663cd66d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/imagineThisIsAHamster.obj-0865c629fdd260b49535e2c5663cd66d.mesh"]
+
+source_file="res://models/imagineThisIsAHamster.obj"
+dest_files=["res://.godot/imported/imagineThisIsAHamster.obj-0865c629fdd260b49535e2c5663cd66d.mesh", "res://.godot/imported/imagineThisIsAHamster.obj-0865c629fdd260b49535e2c5663cd66d.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false
