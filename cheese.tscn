@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://lqq0tpj2u0yb"]
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_gxlqv"]
+radius = 1.01408
+
+[node name="cheese" type="Area3D"]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="."]
+shape = SubResource("SphereShape3D_gxlqv")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
